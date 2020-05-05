@@ -1,0 +1,8 @@
+﻿  Article.cpp
+  Book.cpp
+  Reference.cpp
+C:\Users\ch\Documents\COEN 244 ASSIGNMENTS\Assignment03\Assignment03\Reference.cpp(28,1): error C2723: 'RefObj::printInfo': 'virtual' specifier illegal on function definition
+  ReferenceManager.cpp
+  Textbook.cpp
+  main.cpp
+  Generating Code...
